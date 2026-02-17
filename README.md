@@ -1,93 +1,107 @@
-# 👋 Hi, I'm Nizar Baloubali  
-### 🚀 AI Engineer | Data Science & Intelligent Systems | Engineering Student
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nizarbll&label=Profile%20views&color=00f9ff&style=flat" alt="nizarbll" />
+
+# 🧬 NIZAR BALOUBALI
+### 🌌 AI SYSTEMS ARCHITECT | BIG DATA ENGINEER
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=CORE_INIT:+Initializing+Neural+State;SYSTEM_STATUS:+Building+Artificial+Intelligence;OBJECTIVE:+Scaling+Intelligent+Ecosystems;TARGET:+Global+Technological+Impact" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizarbll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F9FF&text_color=FFFFFF)](https://github.com/nizarbll)
+
 </div>
 
 ---
 
-### 👤 About Me
+### 📡 SYSTEM_OVERVIEW
+> "Designing the bridge between raw data and decentralized intelligence."
 
-I am an **Engineering Student specialized in Big Data & Artificial Intelligence**, passionate about building **intelligent, scalable, and production-ready AI systems**.
-
-My work focuses on designing end-to-end AI solutions — from **data preprocessing and model training to deployment and real-world integration**.
-
-I enjoy transforming complex problems into practical, efficient, and high-performance solutions — from **machine learning models to full-stack AI-powered applications**.
-
-- 🎓 Engineering Student in Big Data & AI  
-- 🌍 Based in Morocco  
-- 🤖 Focused on Machine Learning, Deep Learning, NLP, LLMs & AI Agents  
-- ⚡ Interested in scalable AI systems & intelligent automation  
-- 🎯 Goal: Becoming a high-level AI Engineer contributing to impactful real-world projects  
+I am a **Big Data & AI Engineering Specialist** focused on the deployment of high-availability **Neural Architectures**. My work transcends standard model training; I architect the underlying systems that make AI production-ready, scalable, and resilient.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🧠 NEURAL_CAPABILITIES
 
-#### 🤖 Artificial Intelligence & Data Science
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### 🌐 Web Development & Engineering
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+```yaml
+specialization:
+  - Large Language Models (LLMs) & RAG Pipelines
+  - Autonomous AI Agents & Task Decomposition
+  - Deep Learning for Computer Vision & NLP
+  - Distributed Big Data Processing
+  - Clean Architecture & Scalable Backend Systems
+```
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ TECH_ARSENAL
+
+#### 🤖 AI & DATA_SCIENCE
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,scipy,pandas" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_DB-00F9FF?style=for-the-badge&logo=databricks&logoColor=black"/>
+</p>
+
+#### 🌐 FULLSTACK_ENGINEERING
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,php,mysql,mongodb,html,css" />
+</p>
+
+#### ⚙️ INFRASTRUCTURE & TOOLS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,postman" />
+</p>
+
+---
+
+### 🌌 FLAGSHIP_PROJECTS
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h4>🤖 JULIE — AI CALLBOT SYSTEM</h4>
+      <p>A high-fidelity conversational AI integrating Whisper STT, LLM reasoning, and TTS for real-time human-like interaction.</p>
+      <a href="https://github.com/nizarbll/julie-callbot"><code>VIEW_EXECUTION</code></a>
+    </td>
+    <td width="50%">
+      <h4>🎮 ARCADIA ZONE (WEBGAMES)</h4>
+      <p>Professional refactoring of a web platform into a modular, secure, and production-standard ecosystem.</p>
+      <a href="https://github.com/nizarbll/webgames"><code>VIEW_EXECUTION</code></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 SYSTEM_METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nizarbll&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizarbll&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nizarbll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F9FF&text_color=FFFFFF&icon_color=00F9FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats?username=nizarbll&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=00F9FF&ring=00F9FF&fire=00F9FF&currStreakLabel=00F9FF" height="170" />
 </div>
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🎮 [Arcadia Zone (WebGames)](https://github.com/nizarbll/webgames)
-Professional full-stack web engineering project built with structured backend architecture and secure authentication.  
-Designed with clean code principles and scalable system logic.
-
-#### 🤖 [Julie – Intelligent Callbot (GenAI Project)](https://github.com/nizarbll/julie-callbot)
-AI-powered conversational system integrating speech recognition, NLP pipelines, and Large Language Models (LLMs).  
-Built as a real-world automation solution for intelligent customer interaction.
-
-#### 💎 [Portfolio](https://github.com/nizarbll/portfolio)
-Modern developer portfolio showcasing projects, technical stack, and engineering vision.
-
----
-
-### 📩 Get in Touch
+### 📡 CONNECT_WITH_NODE
 
 <div align="center">
-  <a href="https://linkedin.com/in/nizar-baloubali" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/nizar-baloubali">
+    <img src="https://img.shields.io/badge/LINKEDIN-00F9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:baloubalinizar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:baloubalinizar@gmail.com">
+    <img src="https://img.shields.io/badge/SECURE_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Nizar Baloubali</sub>
+  
+`[SYSTEM LOG]`  
+`STATUS: BUILDING_DECENTRALIZED_INTELLIGENCE`  
+`ENTITY: NIZAR_BALOUBALI // AI_ENGINEER`  
+`TARGET: GLOBAL_IMPACT`
+
 </div>
