@@ -1,17 +1,42 @@
 <div align="center">
+  <svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Layer -->
+    <rect width="800" height="200" rx="15" fill="#050505"/>
+    
+    <!-- Sophisticated Grid Geometry -->
+    <defs>
+      <pattern id="archGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+        <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#10B981" stroke-width="0.3" stroke-opacity="0.15"/>
+      </pattern>
+    </defs>
+    <rect width="800" height="200" rx="15" fill="url(#archGrid)"/>
+    
+    <!-- Elegant Typography: Name -->
+    <text x="50%" y="75" text-anchor="middle" fill="#E2E8F0" style="font-family: 'Inter', system-ui, sans-serif; font-size: 52px; font-weight: 800; letter-spacing: -1.5px; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.5));">NIZAR BALOUBALI</text>
+    
+    <!-- Sub-heading with tracking -->
+    <text x="50%" y="115" text-anchor="middle" fill="#10B981" style="font-family: 'Fira Code', monospace; font-size: 13px; font-weight: 600; letter-spacing: 5px; text-transform: uppercase;">Neural Systems Architect</text>
+    
+    <!-- Separation line -->
+    <rect x="250" y="135" width="300" height="1" fill="#10B981" fill-opacity="0.3"/>
+    
+    <!-- Metadata badges in SVG -->
+    <g transform="translate(325, 155)">
+      <rect width="150" height="24" rx="12" fill="#10B981" fill-opacity="0.1" stroke="#10B981" stroke-opacity="0.2"/>
+      <text x="75" y="16" text-anchor="middle" fill="#10B981" style="font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 700;">AI DATA SCIENCE ENGINEER</text>
+    </g>
 
-<!-- 🌌 [ NEURAL_LINK_ESTABLISHED ] 🌌 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=2000&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=Nizar+Baloubali;Neural+Systems+Architect;AI+Data+Science+Engineer" />
-</p>
+    <!-- Animated Scanning Element -->
+    <rect x="0" y="0" width="2" height="200" fill="#10B981" fill-opacity="0.4">
+      <animate attributeName="x" values="0;800;0" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;0.5;0" dur="8s" repeatCount="indefinite" />
+    </rect>
+  </svg>
 
-<p align="center">
-  <img src="m.jpg" width="500" style="border-radius: 20px; box-shadow: 0 0 25px rgba(176, 38, 255, 0.4);" />
-</p>
+  <br/><br/>
 
+  <img src="m.jpg" width="200" style="border-radius: 50%; border: 3px solid #10B981; padding: 5px; box-shadow: 0 0 30px rgba(16, 185, 129, 0.2);" />
 </div>
-
----
 
 
 ## AI Systems Engineering — Autonomous Agents & Voice Interfaces
