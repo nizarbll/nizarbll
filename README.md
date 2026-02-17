@@ -6,7 +6,7 @@
 <tr>
 <td align="center" valign="middle">
 <!-- PLACEHOLDER FOR YOUR HORIZONTAL HEADER IMAGE -->
-<div style="width: 100%; height: 300px; background: linear-gradient(90deg, #050505 0%, #0A0B10 50%, #050505 100%); border: 2px dashed #00D1FF; display: flex; align-items: center; justify-content: center; border-radius: 15px;">
+<div style="width: 100%; height: 200px; background: linear-gradient(90deg, #050505 0%, #0A0B10 50%, #050505 100%); border: 2px dashed #00D1FF; display: flex; align-items: center; justify-content: center; border-radius: 15px;">
   <span style="color: #00D1FF; font-family: 'Courier New', monospace; font-size: 20px;">[ INSERT_HORIZONTAL_PROJECT_BANNER_HERE ]</span>
 </div>
 </td>
@@ -126,8 +126,7 @@ Main areas:
 <p style="font-size: 13px; color: #888; margin-top: 10px;">
 • REST APIs Integration<br/>
 • Microservices Architecture<br/>
-• DevOps (CI/CD, Docker)<br/>
-• Clean Architecture (MVC)<br/>
+• DevOps (Docker)<br/>
 • Problem Solving & Algorithms
 </p>
 </div>
@@ -176,7 +175,7 @@ Main areas:
 <p style="color: #AAA;">Large-scale medical QA system built during FM Digits internship.</p>
 <ul style="color: #888; font-size: 14px;">
   <li>Ingestion and cleaning of 10,000+ pages</li>
-  <li>Vector indexing (2GB knowledge base)</li>
+  <li>Vector indexing </li>
   <li>Semantic retrieval & Contextual generation</li>
 </ul>
 <p style="color: #FFFFFF; font-weight: bold;">Performance: ~90% validated answer reliability during pilot testing.</p>
