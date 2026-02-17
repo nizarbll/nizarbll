@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=48&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+GITHUB;BE+READY!!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=48&duration=3000&pause=1000&color=1A1A1A&center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+GITHUB;NIZAR+BALOUBALI" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=94A3B8&center=true&vCenter=true&width=720&lines=⟫_NEURAL_SYSTEMS_ARCHITECT;⟫_AI_DATA_SCIENCE_ENGINEER;⟫_BUILDING_AUTONOMOUS_AGENTS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=475569&center=true&vCenter=true&width=720&lines=Nizar+Baloubali;AI+%26+Data+Engineer;building+autonomous+ai+systems;rag+and+agent+pipelines;system+operational" />
 </div>
-
 
 <div align="center">
   <br/>
