@@ -2,45 +2,6 @@
 
 <!-- 🌌 [ NEURAL_LINK_ESTABLISHED ] 🌌 -->
 
-<table border="0" width="1000" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" valign="middle">
-<!-- PLACEHOLDER FOR YOUR HORIZONTAL HEADER IMAGE -->
-<div style="width: 100%; height: 200px; background: linear-gradient(90deg, #050505 0%, #0A0B10 50%, #050505 100%); border: 2px dashed #00D1FF; display: flex; align-items: center; justify-content: center; border-radius: 15px;">
-  <span style="color: #00D1FF; font-family: 'Courier New', monospace; font-size: 20px;">[ INSERT_HORIZONTAL_PROJECT_BANNER_HERE ]</span>
-</div>
-</td>
-</tr>
-<tr>
-<td align="center">
-<svg width="800" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Grid Pattern -->
-  <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00D1FF" stroke-width="0.5" stroke-opacity="0.1"/>
-    </pattern>
-    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00D1FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00D1FF" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#00D1FF" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="180" fill="url(#grid)"/>
-
-  <!-- Title & Identity -->
-  <text x="400" y="70" text-anchor="middle" fill="#00D1FF" style="font-family: 'Courier New', monospace; font-size: 42px; font-weight: 900; letter-spacing: 15px; filter: drop-shadow(0 0 10px #00D1FF);">NIZAR BALOUBALI</text>
-  <text x="400" y="110" text-anchor="middle" fill="#FFFFFF" style="font-family: 'Courier New', monospace; font-size: 16px; letter-spacing: 4px; opacity: 0.8;">NEURAL SYSTEMS ARCHITECT | AI ENGINEER</text>
-  
-  <!-- Pulsing Data Node -->
-  <circle cx="400" cy="140" r="4" fill="#00D1FF">
-    <animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
-  </circle>
-  <text x="400" y="165" text-anchor="middle" fill="#00D1FF" style="font-family: monospace; font-size: 10px; font-weight: bold; letter-spacing: 2px;">STATUS: NEURAL_CORE_EVOLVING</text>
-</svg>
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="m.jpg" />
