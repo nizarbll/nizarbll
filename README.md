@@ -4,14 +4,14 @@
 
 
 <p align="center">
-  <img src="m.jpg" />
+  <img src="m.jpg" width="250" style="border-radius: 20px; box-shadow: 0 0 20px rgba(0, 209, 255, 0.3);" />
 </p>
 
 </div>
 
 ---
 
-### 🧠 ⟫ [ HEADER_INTRO ]
+
 ## AI Systems Engineering — Autonomous Agents & Voice Interfaces
 
 Engineering real-time AI systems that convert human input into structured, executable actions.
@@ -26,7 +26,6 @@ Currently building applied AI systems for customer service automation and medica
 
 ---
 
-### 🔬 ⟫ [ RESEARCH_FOCUS ]
 ## Research Focus
 
 I design applied AI pipelines rather than isolated models.
@@ -40,7 +39,7 @@ Main areas:
 
 ---
 
-### 🛠️ ⟫ [ TECH_STACK_SKILLS ]
+### TECH_STACK_SKILLS
 
 <div align="center">
 <table border="0" width="100%" cellspacing="10">
@@ -98,8 +97,7 @@ Main areas:
 
 ---
 
-### ⚙️ ⟫ [ SYSTEM_STACK ]
-## System Stack
+### System Stack
 
 - **AI & Reasoning:** LangChain • LangGraph • HuggingFace • TensorFlow • Scikit-Learn
 - **Retrieval & Knowledge:** ChromaDB • RAG pipelines • CLIP • MiniLM • Tesseract OCR
@@ -108,7 +106,7 @@ Main areas:
 
 ---
 
-### 🧪 ⟫ [ MAIN_PROJECTS ]
+### MAIN_PROJECTS
 
 <div align="center">
 <table border="0" width="100%">
@@ -148,7 +146,7 @@ Main areas:
 
 ---
 
-### 📊 ⟫ [ ENGINEERING_ACTIVITY ]
+
 ## Engineering Activity
 
 - **Data Science & AI Engineering student (ENSA)**
@@ -158,7 +156,7 @@ Main areas:
 
 ---
 
-### 🧩 ⟫ [ CORE_SKILLS ]
+
 ## Skills
 
 **Machine Learning** • **Deep Learning** • **NLP** • **Agents** • **RAG**  
@@ -167,8 +165,8 @@ Main areas:
 
 ---
 
-### 🌍 ⟫ [ ABOUT_ME ]
-## About
+
+## About ME
 
 Engineering student specialized in **Data Science and Artificial Intelligence**.
 
@@ -176,7 +174,6 @@ I am particularly interested in systems where AI performs actions rather than on
 
 ---
 
-### 📡 ⟫ [ SECURE_UPLINK ]
 
 <div align="center">
 
