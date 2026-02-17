@@ -1,42 +1,38 @@
 <div align="center">
 
-# 🦾 [ NEURAL_INTERFACE: NIZAR_BALOUBALI ]
-### 🧬 AI ARCHITECT | SPEECH INTELLIGENCE & AGENTIC SYSTEMS
+# ❖ [ SYSTEM_IDENTITY: NIZAR_BALOUBALI ]
+### 🧬 SENIOR AI ARCHITECT | AGENTIC WORKFLOWS & SPEECH INTELLIGENCE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=CORE_INIT:+ESTABLISHING_NEURAL_LINK;SCANNING_AI_AGENT_NETWORKS...;LOAD_SUCCESS:+WHISPER_STT_ACTIVE;LOAD_SUCCESS:+NEURAL_TTS_ACTIVE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&lines=⟫_NEURAL_CORE:_INITIALIZING;⟫_AGENTIC_WORKFLOW_ACTIVE;⟫_SPEECH_TO_INTELLIGENCE_DEPLOYED;⟫_STATUS:_READY_FOR_GLOBAL_IMPACT" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/INTEL-ACTIVE-00D1FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/AGENTIC_FLOW-STABLE-1E3A8A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SYNTHESIS-OPTIMIZED-00D1FF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/OPERATIONAL_STATE-ACTIVE-00D1FF?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/SECURITY_ENCRYPTION-ENABLED-00D1FF?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/SYSTEM_STABILITY-99.99%25-00D1FF?style=flat-square&labelColor=111111" />
 </p>
 
 </div>
 
 ---
 
-### 📡 ══ [ THE_ARCHITECT_PROFILE ] ══
+### 📡 ⟫ MISSION_OVERVIEW
+> *"I do not build just models; I engineer the cognitive systems that drive the future of autonomous intelligence. My work focuses on the seamless transition from raw speech to complex agentic reasoning."*
+
+---
+
+### 🧠 ⟫ NEURAL_LOGIC_STACK
 
 <div align="center">
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="55%">
-<div style="background: #0B0E14; border-left: 5px solid #00D1FF; padding: 20px; border-radius: 4px; box-shadow: inset 0 0 10px #000;">
-<strong>🌑 SYSTEM_ENTITY</strong><br/>
-<code>DESIGNATION:</code> Nizar Baloubali<br/>
-<code>FIELD:</code> AI Systems Engineering<br/>
-<code>OPERATIONS:</code> Global AI Agent Deployment<br/>
-<code>FOCUS:</code> End-to-End Speech-to-Intelligence
-</div>
-</td>
-<td width="45%">
-<div style="background: #0B0E14; border-left: 5px solid #1E3A8A; padding: 20px; border-radius: 4px; box-shadow: inset 0 0 10px #000;">
-<strong>🤖 NEURAL_PIPELINES</strong><br/>
-<code>AGENT_ORCH:</code> LangGraph | CrewAI<br/>
-<code>VOICE_OPS:</code> Whisper STT | Neural TTS<br/>
-<code>CORE_AI:</code> LLMs | RAG Systems | Fast API<br/>
-<code>INFRA:</code> Vector Databases | Docker
-</div>
+<td width="500">
+<p align="left">
+<code>❖ AGENTIC_SYSTEMS:</code> <b>LangGraph, AutoGen</b><br/>
+<code>❖ SPEECH_INTELLIGENCE:</code> <b>Whisper STT, Openai TTS</b><br/>
+<code>❖ REASONING_ENGINES:</code> <b>GPT-4o, Claude 3.5 Sonnet, Llama 3</b><br/>
+<code>❖ KNOWLEDGE_RETRIEVAL:</code> <b>RAG Pipelines ChromaDB</b><br/>
+<code>❖ PRODUCTION_OPS:</code> <b>FastAPI, Docker</b>
+</p>
 </td>
 </tr>
 </table>
@@ -44,32 +40,27 @@
 
 ---
 
-### 🛠️ ══ [ TECH_COMMAND_CENTER ] ══
+### 🛠️ ⟫ THE_TECH_DASHBOARD
 
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
-<div style="border: 1px solid #1E3A8A; padding: 20px; border-radius: 10px; background: #0B0E14; box-shadow: 0 0 15px rgba(0, 209, 255, 0.05);">
-<strong>▣ AGENTIC ARCHITECTURES</strong><br/><br/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge" /><br/>
-<p style="font-size: 13px; color: #708090; margin-top: 10px;">Decomposition | Multi-Agent Systems | Stateful Workflows</p>
+<td width="33%" align="center">
+<div style="border: 1px solid #111111; padding: 20px; background: #0B0B0B; border-radius: 4px;">
+<img src="https://img.shields.io/badge/LANGGRAPH-000?style=for-the-badge&logo=langchain&logoColor=00D1FF" /><br/>
+<small>Stateful Multi-Agent Flows</small>
 </div>
 </td>
-<td width="33%" align="center" valign="top">
-<div style="border: 1px solid #00D1FF; padding: 20px; border-radius: 10px; background: #0B0E14; box-shadow: 0 0 15px rgba(0, 209, 255, 0.1);">
-<strong>▣ SPEECH & NEURAL STACK</strong><br/><br/>
-<img src="https://img.shields.io/badge/Whisper_STT-00D1FF?style=for-the-badge&logo=openai&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/Neural_TTS-1E3A8A?style=for-the-badge&logo=elevenlabs&logoColor=white" /><br/>
-<p style="font-size: 13px; color: #708090; margin-top: 10px;">Real-time Transcription | Voice Cloning | Audio Intelligence</p>
+<td width="33%" align="center">
+<div style="border: 1px solid #111111; padding: 20px; background: #0B0B0B; border-radius: 4px;">
+<img src="https://img.shields.io/badge/WHISPER_STT-000?style=for-the-badge&logo=openai&logoColor=00D1FF" /><br/>
+<small>Neural Speech Processing</small>
 </div>
 </td>
-<td width="33%" align="center" valign="top">
-<div style="border: 1px solid #1E3A8A; padding: 20px; border-radius: 10px; background: #0B0E14; box-shadow: 0 0 15px rgba(0, 209, 255, 0.05);">
-<strong>▣ DATA & SYSTEMS INFRA</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=python,docker,linux,mysql" /><br/>
-<p style="font-size: 13px; color: #708090; margin-top: 10px;">Scalable Backend | Containerization | SQL/NoSQL</p>
+<td width="33%" align="center">
+<div style="border: 1px solid #111111; padding: 20px; background: #0B0B0B; border-radius: 4px;">
+<img src="https://img.shields.io/badge/AGENT_AI-000?style=for-the-badge&logo=huggingface&logoColor=00D1FF" /><br/>
+<small>Autonomous Decision Engines</small>
 </div>
 </td>
 </tr>
@@ -78,88 +69,45 @@
 
 ---
 
-### 🌌 ══ [ DEPLOYED_AI_NODES ] ══
+### 🌌 ⟫ ACTIVE_DEPLOYMENT_NODES
 
-<div align="center">
-<table border="0" width="100%">
-<tr>
-<td width="50%">
-<div style="border: 2px solid #00D1FF; border-radius: 12px; padding: 25px; background: #0B0E14; box-shadow: 0 0 20px rgba(0, 209, 255, 0.15);">
-<h3 style="color: #00D1FF; margin-top: 0;">🤖 NODE_JULIE: VOICE_AI_CORE</h3>
-<hr style="border: 0.5px solid #00D1FF; opacity: 0.2;" />
-<p style="color: #A9B1D6;">The ultimate conversational agent. Integrates <strong>Whisper STT</strong> for flawless hearing, <strong>LangGraph</strong> for complex reasoning, and <strong>Neural TTS</strong> for human-like speech output.</p>
-<code>PYTHON</code> <code>LANGGRAPH</code> <code>WHISPER</code> <code>TTS</code>
-<br/><br/>
-<a href="https://github.com/nizarbll/julie-callbot" target="_blank">
-<img src="https://img.shields.io/badge/[_INITIALIZE_UPLINK_]-00D1FF?style=for-the-badge&logoColor=black" />
-</a>
-</div>
-</td>
-<td width="50%">
-<div style="border: 2px solid #1E3A8A; border-radius: 12px; padding: 25px; background: #0B0E14; box-shadow: 0 0 20px rgba(30, 58, 138, 0.15);">
-<h3 style="color: #1E3A8A; margin-top: 0;">🎮 NODE_ARCADIA: SYSTEMS_HUB</h3>
-<hr style="border: 0.5px solid #1E3A8A; opacity: 0.2;" />
-<p style="color: #A9B1D6;">A high-performance gaming ecosystem. Refactored for extreme scalability, modular logic, and military-grade session security.</p>
-<code>PHP_8</code> <code>MYSQL_DB</code> <code>SECURITY_OPS</code> <code>MODULAR_ARCH</code>
-<br/><br/>
-<a href="https://github.com/nizarbll/webgames" target="_blank">
-<img src="https://img.shields.io/badge/[_INITIALIZE_UPLINK_]-1E3A8A?style=for-the-badge&logoColor=white" />
-</a>
-</div>
-</td>
-</tr>
-</table>
-</div>
+#### [ JULIE ] — THE CONVERSATIONAL AGENT
+**Status:** `ONLINE`
+**Core:** Multi-Agent Pipeline via **LangGraph**
+**Capabilities:** 
+- Autonomous hearing via **Whisper STT** 
+- Dynamic reasoning with **Contextual Memory**
+- Human-grade speech synthesis via **Neural TTS**
+- [**EXECUTE ACCESS**](https://github.com/nizarbll/julie-callbot)
+
+#### [ WEBGAMES ] — ARCHITECTURAL HUB
+**Status:** `STABLE`
+**Focus:** Secure Web Engineering & System Refactoring
+**Execution:** 
+- Enterprise-grade **PHP/MySQL** Backend
+- Modular Architecture for Scalability
+- Advanced UI/UX Implementation
+- [**EXECUTE ACCESS**](https://github.com/nizarbll/webgames)
 
 ---
 
-### 📊 ══ [ SYSTEM_DIAGNOSTICS ] ══
-
-<div align="center">
-<table border="0" width="100%">
-<tr>
-<td width="60%">
-<div style="background: #0B0E14; border: 1px solid #1E3A8A; border-left: 5px solid #00D1FF; padding: 25px; border-radius: 8px; box-shadow: inset 0 0 15px #000;">
-<strong>🚀 TOP_MISSION_FIELDS</strong><br/><br/>
-<div style="width: 100%; background: #24283B; height: 10px; border-radius: 5px; margin-bottom: 5px;"><div style="width: 95%; background: #00D1FF; height: 10px; border-radius: 5px;"></div></div>
-<span style="font-size: 12px;">SPEECH INTELLIGENCE & VOX PIPELINES (95%)</span><br/><br/>
-<div style="width: 100%; background: #24283B; height: 10px; border-radius: 5px; margin-bottom: 5px;"><div style="width: 90%; background: #1E3A8A; height: 10px; border-radius: 5px;"></div></div>
-<span style="font-size: 12px;">MULTI-AGENT SYSTEMS (LANGGRAPH) (90%)</span><br/><br/>
-<div style="width: 100%; background: #24283B; height: 10px; border-radius: 5px; margin-bottom: 5px;"><div style="width: 85%; background: #00D1FF; height: 10px; border-radius: 5px;"></div></div>
-<span style="font-size: 12px;">GEN-AI & RAG ARCHITECTURES (85%)</span>
-</div>
-</td>
-<td width="40%">
-<div style="background: #0B0E14; border: 1px solid #1E3A8A; padding: 25px; border-radius: 8px; box-shadow: inset 0 0 15px #000;">
-<strong>🔬 FUTURE_CORE_RESEARCH</strong><br/>
-<ul style="list-style: none; font-size: 14px; margin-left: -20px; color: #A9B1D6;">
-<li>▹ Cognitive Graph Memory</li>
-<li>▹ Real-time Voice Cloning Ops</li>
-<li>▹ Autonomous Swarm Intelligence</li>
-<li>▹ Low-Latency On-Device LLMs</li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
-</div>
+### � ⟫ RESEARCH_FRONTIERS
+- **Self-Optimizing Agent Networks**: Building systems that learn from task outcomes.
+- **Multimodal Real-Time Streaming**: Low-latency voice-to-logic-to-voice loops.
+- **Cognitive Security**: Protecting LLM pipelines from adversarial injection.
 
 ---
 
-### 📡 ══ [ SECURE_UPLINK ] ══
+### 📡 ⟫ SECURE_UPLINK
 
 <div align="center">
-  <a href="https://linkedin.com/in/nizar-baloubali" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-00D1FF?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="mailto:baloubalinizar@gmail.com">
-    <img src="https://img.shields.io/badge/SECURE_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-00D1FF?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/baloubali-nizar/)
+[![EMAIL](https://img.shields.io/badge/SECURE_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=00D1FF)](mailto:nizarbaloubali09@gmail.com)
+
 </div>
 
 ---
-
-<div align="center">
 
 
 </div>
