@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="m.jpg" width="250" style="border-radius: 20px; box-shadow: 0 0 20px rgba(0, 209, 255, 0.3);" />
+  <img src="m.jpg" width="500" style="border-radius: 20px; box-shadow: 0 0 20px rgba(0, 209, 255, 0.3);" />
 </p>
 
 </div>
