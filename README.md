@@ -4,14 +4,16 @@
 
 <table border="0" width="1000" cellspacing="0" cellpadding="0">
 <tr>
-<td width="200" align="center" valign="middle">
-<img src="m.jpg" width="180" style="border-radius: 50%; border: 4px solid #00D1FF; box-shadow: 0 0 20px #00D1FF;" />
+<td align="center" valign="middle">
+<!-- PLACEHOLDER FOR YOUR HORIZONTAL HEADER IMAGE -->
+<div style="width: 100%; height: 300px; background: linear-gradient(90deg, #050505 0%, #0A0B10 50%, #050505 100%); border: 2px dashed #00D1FF; display: flex; align-items: center; justify-content: center; border-radius: 15px;">
+  <span style="color: #00D1FF; font-family: 'Courier New', monospace; font-size: 20px;">[ INSERT_HORIZONTAL_PROJECT_BANNER_HERE ]</span>
+</div>
 </td>
-<td width="800">
-<svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="800" height="250" fill="#050505"/>
-  
+</tr>
+<tr>
+<td align="center">
+<svg width="800" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Grid Pattern -->
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
@@ -23,73 +25,111 @@
       <stop offset="100%" stop-color="#00D1FF" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="800" height="250" fill="url(#grid)"/>
-
-  <!-- Animated Scanning Laser -->
-  <rect x="0" y="0" width="800" height="1" fill="url(#glow)">
-    <animate attributeName="y" values="0;250;0" dur="5s" repeatCount="indefinite" />
-  </rect>
+  <rect width="800" height="180" fill="url(#grid)"/>
 
   <!-- Title & Identity -->
-  <text x="400" y="80" text-anchor="middle" fill="#00D1FF" style="font-family: 'Courier New', monospace; font-size: 38px; font-weight: 900; letter-spacing: 12px; filter: drop-shadow(0 0 8px #00D1FF);">NIZAR.BLL</text>
-  <text x="400" y="120" text-anchor="middle" fill="#FFFFFF" style="font-family: 'Courier New', monospace; font-size: 14px; letter-spacing: 5px; opacity: 0.7;">NEURAL SYSTEMS ARCHITECT</text>
+  <text x="400" y="70" text-anchor="middle" fill="#00D1FF" style="font-family: 'Courier New', monospace; font-size: 42px; font-weight: 900; letter-spacing: 15px; filter: drop-shadow(0 0 10px #00D1FF);">NIZAR BALOUBALI</text>
+  <text x="400" y="110" text-anchor="middle" fill="#FFFFFF" style="font-family: 'Courier New', monospace; font-size: 16px; letter-spacing: 4px; opacity: 0.8;">NEURAL SYSTEMS ARCHITECT | AI ENGINEER</text>
   
-  <!-- Circuit Lines -->
-  <path d="M 0 50 H 150 L 200 100 H 600 L 650 150 H 800" stroke="#00D1FF" stroke-width="1" stroke-opacity="0.3">
-    <animate attributeName="stroke-dasharray" values="0,2000;2000,0" dur="4s" repeatCount="indefinite" />
-  </path>
-
   <!-- Pulsing Data Node -->
-  <circle cx="400" cy="180" r="5" fill="#00D1FF">
-    <animate attributeName="r" values="5;15;5" dur="1.5s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
+  <circle cx="400" cy="140" r="4" fill="#00D1FF">
+    <animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
   </circle>
-  <text x="400" y="210" text-anchor="middle" fill="#00D1FF" style="font-family: monospace; font-size: 10px; font-weight: bold; letter-spacing: 2px;">STATUS: NEURAL_CORE_ONLINE</text>
+  <text x="400" y="165" text-anchor="middle" fill="#00D1FF" style="font-family: monospace; font-size: 10px; font-weight: bold; letter-spacing: 2px;">STATUS: NEURAL_CORE_EVOLVING</text>
 </svg>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1500&pause=500&color=00D1FF&center=true&vCenter=true&width=900&lines=⟫_SYNCHRONIZING_GLOBAL_NODE;⟫_AGENTIC_INTELLIGENCE_DEPLOYED;⟫_SYSTEM_LEVEL:_ARCHITECT;⟫_ACCESS:_GRANTED_0x42" />
+  <img src="m.jpg" />
 </p>
 
 </div>
 
 ---
 
-### 🛡️ ⟫ [ MISSION_MANIFESTO ]
-> *"I evolve raw data into autonomous cognitive systems. My expertise lies in architecting the 'Ghost in the Machine'—highly scalable, multi-agent ecosystems that define the future of human-AI collaboration."*
+### 🧠 ⟫ [ HEADER_INTRO ]
+## AI Systems Engineering — Autonomous Agents & Voice Interfaces
+
+Engineering real-time AI systems that convert human input into structured, executable actions.
+
+My work focuses on:
+- **Multi-agent orchestration**
+- **Retrieval-augmented reasoning**
+- **Speech interaction pipelines**
+- **Production-oriented AI architecture**
+
+Currently building applied AI systems for customer service automation and medical knowledge retrieval.
 
 ---
 
-### 🧠 ⟫ [ NEURAL_ARCHITECTURE_STACK ]
+### 🔬 ⟫ [ RESEARCH_FOCUS ]
+## Research Focus
+
+I design applied AI pipelines rather than isolated models.
+
+Main areas:
+- **Agentic workflows** (LangGraph orchestration)
+- **Retrieval-Augmented Generation at scale**
+- **Voice AI** (STT → reasoning → action → TTS)
+- **Knowledge indexing & semantic search**
+- **Real-time decision systems**
+
+---
+
+### 🛠️ ⟫ [ TECH_STACK_SKILLS ]
 
 <div align="center">
-<table border="0" width="100%" cellspacing="15">
+<table border="0" width="100%" cellspacing="10">
 <tr>
 <td width="33%" valign="top">
-<div style="border: 2px solid #00D1FF; padding: 25px; border-radius: 15px; background: #0A0A0A; border-bottom: 8px solid #00D1FF;">
-<strong style="color: #00D1FF; font-size: 18px;">[ AGENTIC_OPS ]</strong><br/><br/>
-<img src="https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=langchain&logoColor=00D1FF" /><br/>
-<img src="https://img.shields.io/badge/CrewAI-000?style=for-the-badge&logoColor=00D1FF" /><br/>
-<p style="font-size: 13px; color: #888; margin-top: 15px;">Stateful reasoning circuits and multi-agent orchestration for mission-critical tasks.</p>
+<div style="border: 1px solid #00D1FF; padding: 20px; border-radius: 12px; background: #0A0A0A; height: 100%;">
+<strong style="color: #00D1FF;">🤖 AI & DATA SCIENCE</strong><br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-F1BD11?style=flat-square&logo=huggingface&logoColor=black" /><br/>
+<p style="font-size: 13px; color: #888; margin-top: 10px;">
+• Machine & Deep Learning<br/>
+• LLMs & RAG Systems<br/>
+• LangGraph (AI Agents)<br/>
+• Scikit-Learn, Pandas, NumPy<br/>
+• CLIP, MiniLM, Tesseract OCR
+</p>
 </div>
 </td>
 <td width="33%" valign="top">
-<div style="border: 2px solid #00D1FF; padding: 25px; border-radius: 15px; background: #0A0A0A; border-bottom: 8px solid #00D1FF;">
-<strong style="color: #00D1FF; font-size: 18px;">[ VOX_NEURAL ]</strong><br/><br/>
-<img src="https://img.shields.io/badge/Whisper_STT-000?style=for-the-badge&logo=openai&logoColor=00D1FF" /><br/>
-<img src="https://img.shields.io/badge/Neural_TTS-000?style=for-the-badge&logo=elevenlabs&logoColor=00D1FF" /><br/>
-<p style="font-size: 13px; color: #888; margin-top: 15px;">Ultra-low latency Speech-to-Intelligence pipelines and voice synthesis protocols.</p>
+<div style="border: 1px solid #00D1FF; padding: 20px; border-radius: 12px; background: #0A0A0A; height: 100%;">
+<strong style="color: #00D1FF;">🗄️ DATA & STORAGE</strong><br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/ChromaDB-00D1FF?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /><br/>
+<p style="font-size: 13px; color: #888; margin-top: 10px;">
+• ETL Pipelines<br/>
+• Vector Databases<br/>
+• SQL Optimization<br/>
+• Feature Engineering<br/>
+• Data Visualization (Power BI)
+</p>
 </div>
 </td>
 <td width="33%" valign="top">
-<div style="border: 2px solid #00D1FF; padding: 25px; border-radius: 15px; background: #0A0A0A; border-bottom: 8px solid #00D1FF;">
-<strong style="color: #00D1FF; font-size: 18px;">[ SYSTEM_INFRA ]</strong><br/><br/>
-<img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00D1FF" /><br/>
-<img src="https://img.shields.io/badge/Docker_Core-000?style=for-the-badge&logo=docker&logoColor=00D1FF" /><br/>
-<p style="font-size: 13px; color: #888; margin-top: 15px;">Distributed architectures designed for high-availability production AI environments.</p>
+<div style="border: 1px solid #00D1FF; padding: 20px; border-radius: 12px; background: #0A0A0A; height: 100%;">
+<strong style="color: #00D1FF;">🌐 ENGINEERING</strong><br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
+<p style="font-size: 13px; color: #888; margin-top: 10px;">
+• REST APIs Integration<br/>
+• Microservices Architecture<br/>
+• DevOps (CI/CD, Docker)<br/>
+• Clean Architecture (MVC)<br/>
+• Problem Solving & Algorithms
+</p>
 </div>
 </td>
 </tr>
@@ -98,24 +138,48 @@
 
 ---
 
-### 🌌 ⟫ [ ACTIVE_DEPLOYMENT_NODES ]
+### ⚙️ ⟫ [ SYSTEM_STACK ]
+## System Stack
+
+- **AI & Reasoning:** LangChain • LangGraph • HuggingFace • TensorFlow • Scikit-Learn
+- **Retrieval & Knowledge:** ChromaDB • RAG pipelines • CLIP • MiniLM • Tesseract OCR
+- **Backend & Data:** Python • FastAPI • SQL • Oracle • MongoDB • ETL pipelines
+- **Interfaces:** Speech-to-Text • Text-to-Speech • REST APIs • Streaming interactions
+
+---
+
+### 🧪 ⟫ [ MAIN_PROJECTS ]
 
 <div align="center">
 <table border="0" width="100%">
 <tr>
 <td>
-<div style="border: 1px solid #00D1FF; background: linear-gradient(135deg, #050505 0%, #0A0B10 100%); padding: 35px; border-radius: 20px; position: relative;">
-<div style="position: absolute; top: 0; right: 0; padding: 8px 20px; background: #00D1FF; color: #000; font-weight: 900; font-family: monospace; font-size: 14px; border-bottom-left-radius: 15px;">NODAL_JULIE_V3.1</div>
-<h2 style="color: #00D1FF; font-family: 'Courier New', monospace; margin-top: 0;">⟫ PROJECT_JULIE: THE_CONVERSATIONAL_GHOST</h2>
-<p style="color: #AAA; font-size: 16px;">The absolute frontier of Human-AI interaction. A stateful **LangGraph** engine integrating real-time **Whisper STT** for auditory perception and **Neural TTS** for cognitive output.</p>
-<div style="display: flex; gap: 15px; margin-top: 20px;">
-  <span style="border: 1px solid #00D1FF; color: #00D1FF; padding: 5px 12px; font-size: 12px; font-family: monospace; border-radius: 5px;">SPEECH_PIPELINE</span>
-  <span style="border: 1px solid #00D1FF; color: #00D1FF; padding: 5px 12px; font-size: 12px; font-family: monospace; border-radius: 5px;">REASONING_ENGINE</span>
+<div style="border: 1px solid #333; background: linear-gradient(135deg, #050505 0%, #0D0E14 100%); padding: 30px; border-radius: 15px; border-left: 10px solid #00D1FF; position: relative; margin-bottom: 20px;">
+<div style="position: absolute; top: 0; right: 0; padding: 5px 15px; background: #00D1FF; color: #000; font-weight: 900; font-family: monospace; font-size: 12px; border-bottom-left-radius: 10px;">PROJECT_01</div>
+<h3 style="color: #00D1FF; margin-top: 0;">1️⃣ Julie — Insurance AI Callbot</h3>
+<p style="color: #AAA;">AI voice agent designed to qualify insurance claims automatically.</p>
+<ul style="color: #888; font-size: 14px;">
+  <li>Real-time speech transcription</li>
+  <li>Intent detection and entity extraction</li>
+  <li>Multi-step reasoning workflow</li>
+  <li>Automated case qualification</li>
+</ul>
+<p style="color: #00D1FF; font-weight: bold;">Result: 90% reduction of repetitive customer calls during testing.</p>
 </div>
-<br/>
-<a href="https://github.com/nizarbll/julie-callbot" target="_blank">
-  <img src="https://img.shields.io/badge/⟫_INITIALIZE_NEURAL_UPLINK-00D1FF?style=for-the-badge&logoColor=black" />
-</a>
+</td>
+</tr>
+<tr>
+<td>
+<div style="border: 1px solid #333; background: linear-gradient(135deg, #050505 0%, #0D0E14 100%); padding: 30px; border-radius: 15px; border-left: 10px solid #FFFFFF; position: relative;">
+<div style="position: absolute; top: 0; right: 0; padding: 5px 15px; background: #FFFFFF; color: #000; font-weight: 900; font-family: monospace; font-size: 12px; border-bottom-left-radius: 10px;">PROJECT_02</div>
+<h3 style="color: #FFFFFF; margin-top: 0;">2️⃣ Medical RAG System</h3>
+<p style="color: #AAA;">Large-scale medical QA system built during FM Digits internship.</p>
+<ul style="color: #888; font-size: 14px;">
+  <li>Ingestion and cleaning of 10,000+ pages</li>
+  <li>Vector indexing (2GB knowledge base)</li>
+  <li>Semantic retrieval & Contextual generation</li>
+</ul>
+<p style="color: #FFFFFF; font-weight: bold;">Performance: ~90% validated answer reliability during pilot testing.</p>
 </div>
 </td>
 </tr>
@@ -124,26 +188,43 @@
 
 ---
 
-### 📡 ⟫ [ SECURE_UPLINK_CHANNELS ]
+### 📊 ⟫ [ ENGINEERING_ACTIVITY ]
+## Engineering Activity
 
-<div align="center">
-
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-00D1FF?style=for-the-badge&logo=linkedin&logoColor=000)](https://linkedin.com/in/nizar-baloubali)
-[![EMAIL](https://img.shields.io/badge/ENCRYPTED_EMAIL-000?style=for-the-badge&logo=gmail&logoColor=00D1FF)](mailto:baloubalinizar@gmail.com)
-
-</div>
+- **Data Science & AI Engineering student (ENSA)**
+- **Internship experience in production AI systems**
+- **Hackathon participant (health & GenAI)**
+- **Building real-world AI applications, not only experiments**
 
 ---
 
+### 🧩 ⟫ [ CORE_SKILLS ]
+## Skills
+
+**Machine Learning** • **Deep Learning** • **NLP** • **Agents** • **RAG**  
+**Data Processing** • **Model Evaluation** • **API Integration**  
+**Software Architecture** • **Problem Solving**
+
+---
+
+### 🌍 ⟫ [ ABOUT_ME ]
+## About
+
+Engineering student specialized in **Data Science and Artificial Intelligence**.
+
+I am particularly interested in systems where AI performs actions rather than only generating text — **assistants, operators, and autonomous pipelines.**
+
+---
+
+### 📡 ⟫ [ SECURE_UPLINK ]
+
 <div align="center">
 
-```text
-============================================================
-  SIGNAL_STATE: 100%_STABLE
-  IDENTITY: NIZAR_BALOUBALI // LEAD_NEURAL_ARCHITECT
-  CURRENT_TASK: BUILDING_THE_FUTURE_OF_AI
-  LOCATION: DISTRIBUTED_NODE_MOROCCO
-============================================================
-```
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-00D1FF?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/baloubali-nizar/)
+[![EMAIL](https://img.shields.io/badge/ENCRYPTED_EMAIL-000?style=for-the-badge&logo=gmail&logoColor=00D1FF)](mailto:nizarbaloubali09@gmail.com)
+
+<br/>
+
+
 
 </div>
