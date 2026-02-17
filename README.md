@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=10B981&height=160&section=header&text=NIZAR%20BALOUBALI&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=200&section=header&text=NIZAR%20BALOUBALI&fontSize=70&fontColor=10B981&fontAlignY=35&animation=twinkling" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=⟫_NEURAL_SYSTEMS_ARCHITECT;⟫_AI_DATA_SCIENCE_ENGINEER;⟫_AUTONOMOUS_AGENT_ENGINEERING" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=⟫_SYSTEM_ARCHITECT_ACCESS_GRANTED;⟫_DEEP_LEARNING_PROTOCOLS_ACTIVE;⟫_MULTI_AGENT_CORE_ONLINE" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="m.jpg" width="450" style="border-radius: 50%; border: 4px solid #10B981; padding: 6px; box-shadow: 0 0 30px rgba(16, 185, 129, 0.25);" />
+  <img src="m.jpg" width="450" style="border-radius: 50%; border: 2px solid #10B981; padding: 4px; filter: grayscale(30%); box-shadow: 0 0 40px rgba(0,0,0,0.8);" />
 </div>
 
 
