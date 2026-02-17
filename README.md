@@ -1,96 +1,111 @@
 <div align="center">
 
-# 🧬 NIZAR BALOUBALI
-### 🌌 AI SYSTEMS ARCHITECT | BIG DATA ENGINEER
+# 🌌 [ LOG_INFO: NIZAR_BALOUBALI ]
+### 🦾 INTELLIGENT SYSTEMS ARCHITECT | BIG DATA NEURAL ENGINEER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=CORE_INIT:+Initializing+Neural+State;SYSTEM_STATUS:+Building+Artificial+Intelligence;OBJECTIVE:+Scaling+Intelligent+Ecosystems;TARGET:+Global+Technological+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=00F9FF&center=true&vCenter=true&width=900&lines=CORE_SEQUENCE_INITIALIZED;DECODING_AI_POTENTIAL;SCALING_NEURAL_NETWORKS;EXECUTING_GLOBAL_DEPLOYMENT" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizarbll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F9FF&text_color=FFFFFF)](https://github.com/nizarbll)
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F9FF?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-111111?style=for-the-badge&logo=fastly&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-DISTRIBUTED_NODE-00F9FF?style=for-the-badge&logo=googlemaps&logoColor=black" />
+</p>
 
 </div>
 
 ---
 
-### 📡 SYSTEM_OVERVIEW
-> "Designing the bridge between raw data and decentralized intelligence."
+### 📡 // SYSTEM_MANIFESTO
+> *"The future isn't programmed; it's trained. I architect the engines that drive the evolution of decentralized intelligence."*
 
-I am a **Big Data & AI Engineering Specialist** focused on the deployment of high-availability **Neural Architectures**. My work transcends standard model training; I architect the underlying systems that make AI production-ready, scalable, and resilient.
+I am an **AI & Big Data Engineer** specialized in the convergence of **Autonomous Agents**, **Scalable Infrastructure**, and **Neural Processing**. My mission is to build systems that don't just process data, but understand and act upon it in production-grade environments.
 
 ---
 
-### 🧠 NEURAL_CAPABILITIES
+### 🧠 // NEURAL_INFRASTRUCTURE
 
-```yaml
-specialization:
-  - Large Language Models (LLMs) & RAG Pipelines
-  - Autonomous AI Agents & Task Decomposition
-  - Deep Learning for Computer Vision & NLP
-  - Distributed Big Data Processing
-  - Clean Architecture & Scalable Backend Systems
+```json
+{
+  "node": "Nizar_Baloubali",
+  "expertise": [
+    "LLM_Orchestration_RAG",
+    "Autonomous_AI_Agents",
+    "Deep_Learning_Scale",
+    "BigData_Pipelines",
+    "Clean_Architecture"
+  ],
+  "status": "Pushing_Boundaries"
+}
 ```
 
 ---
 
-### 🛠️ TECH_ARSENAL
+### 🛠️ // TECHNOLOGICAL_ARSENAL
 
-#### 🤖 AI & DATA_SCIENCE
+#### 🤖 AI_CORE_MODULES
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,scipy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,scipy" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector_DB-00F9FF?style=for-the-badge&logo=databricks&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-#### 🌐 FULLSTACK_ENGINEERING
+#### 🌐 SYSTEM_ARCHITECTURE
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,php,mysql,mongodb,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,php,mysql,mongodb,html,css" />
 </p>
 
-#### ⚙️ INFRASTRUCTURE & TOOLS
+#### ⚙️ DEPLOYMENT_PROTOCOLS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode,postman" />
 </p>
 
 ---
 
-### 🌌 FLAGSHIP_PROJECTS
+### 🌌 // PROJECT_NODES
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%">
-      <h4>🤖 JULIE — AI CALLBOT SYSTEM</h4>
-      <p>A high-fidelity conversational AI integrating Whisper STT, LLM reasoning, and TTS for real-time human-like interaction.</p>
-      <a href="https://github.com/nizarbll/julie-callbot"><code>VIEW_EXECUTION</code></a>
+    <td width="50%" align="center">
+      <div style="border: 2px solid #00F9FF; border-radius: 10px; padding: 15px;">
+        <h4>🤖 NODE_JULIE: AI_CALLBOT</h4>
+        <p>Real-time conversational intelligence node integrating STT, LLM reasoning, and TTS.</p>
+        <a href="https://github.com/nizarbll/julie-callbot"><code>[ EXECUTE_ACCESS ]</code></a>
+      </div>
     </td>
-    <td width="50%">
-      <h4>🎮 ARCADIA ZONE (WEBGAMES)</h4>
-      <p>Professional refactoring of a web platform into a modular, secure, and production-standard ecosystem.</p>
-      <a href="https://github.com/nizarbll/webgames"><code>VIEW_EXECUTION</code></a>
+    <td width="50%" align="center">
+      <div style="border: 2px solid #00F9FF; border-radius: 10px; padding: 15px;">
+        <h4>🎮 NODE_ARCADIA: WEBGAMES</h4>
+        <p>Production-standard web portal refactored for modularity and high-security compliance.</p>
+        <a href="https://github.com/nizarbll/webgames"><code>[ EXECUTE_ACCESS ]</code></a>
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 SYSTEM_METRICS
+### 📊 // QUANTUM_METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nizarbll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F9FF&text_color=FFFFFF&icon_color=00F9FF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats?username=nizarbll&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=00F9FF&ring=00F9FF&fire=00F9FF&currStreakLabel=00F9FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nizarbll&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F9FF&text_color=FFFFFF&icon_color=00F9FF&hide_border=true&include_all_commits=true&count_private=true" alt="Main Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizarbll&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F9FF&text_color=FFFFFF&hide_border=true&langs_count=8" alt="Langs" />
 </div>
 
 ---
 
-### 📡 CONNECT_WITH_NODE
+### 📡 // UPLINK_CHANNELS
 
 <div align="center">
-  <a href="https://linkedin.com/in/nizar-baloubali">
+  <a href="https://www.linkedin.com/in/baloubali-nizar/">
     <img src="https://img.shields.io/badge/LINKEDIN-00F9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:baloubalinizar@gmail.com">
+  <a href="mailto:nizarbaloubali09@gmail.com">
     <img src="https://img.shields.io/badge/SECURE_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -98,10 +113,14 @@ specialization:
 ---
 
 <div align="center">
-  
-`[SYSTEM LOG]`  
-`STATUS: BUILDING_DECENTRALIZED_INTELLIGENCE`  
-`ENTITY: NIZAR_BALOUBALI // AI_ENGINEER`  
-`TARGET: GLOBAL_IMPACT`
+
+```text
+==================================================
+  TERMINAL_STATE: 0x42_SUCCESS
+  ENTITY_ID: NIZAR_BLL
+  CURRENT_FOCUS: ARTIFICIAL_INTELLIGENCE_EVOLUTION
+  TARGET: GLOBAL_IMPACT_v2.0
+==================================================
+```
 
 </div>
