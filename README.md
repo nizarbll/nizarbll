@@ -2,12 +2,11 @@
 
 <!-- 🌌 [ NEURAL_LINK_ESTABLISHED ] 🌌 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=2000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Nizar+Baloubali;Neural+Systems+Architect;AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=2000&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=Nizar+Baloubali;Neural+Systems+Architect;AI+Data+Science+Engineer" />
 </p>
 
-
 <p align="center">
-  <img src="m.jpg" width="500" style="border-radius: 20px; box-shadow: 0 0 20px rgba(0, 209, 255, 0.3);" />
+  <img src="m.jpg" width="500" style="border-radius: 20px; box-shadow: 0 0 25px rgba(176, 38, 255, 0.4);" />
 </p>
 
 </div>
